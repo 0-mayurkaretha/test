@@ -1,0 +1,5 @@
+{{#user}}
+Name: Mayur Karetha
+Skills: HTML, CSS, JS, ReactJS, NextJS, NodeJS, Express, Bootstrap, JQuery, TailwindCSS, MongoDB, Git, Github, C/C++, basic Python
+Email: 0.mayurkaretha@gmail.com
+{{/user}}
